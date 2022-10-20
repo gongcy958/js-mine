@@ -1,0 +1,47 @@
+h1 {
+    color: aqua;
+}
+
+p,li{
+    color: green;
+}
+
+/* li  {
+    list-style-type: none;
+} */
+
+/* .sepical {
+    color: orange;
+} */
+
+li.sepical,em.sepical {
+    color: blue;
+}
+
+
+li em {
+    color: rebeccapurple;
+}
+
+h1 + p {
+    font-size: 200%;
+}
+
+a:link {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover { 
+    text-decoration: none;
+}
+
+body h1 + p .sepical {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+  }
+  

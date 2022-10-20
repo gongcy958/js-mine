@@ -1,0 +1,34 @@
+/* body {
+    color: blue;
+}
+
+span {
+    color: black;
+} */
+
+/* .main { 
+    color: rebeccapurple;
+    border: 2px solid #ccc;
+    padding: 1em;
+}
+
+.special {
+    color: black;
+    font-weight: bold;
+} */
+
+body {
+    color: green;
+}
+
+.my-class-1 {
+    color: inherit;
+}
+
+.my-class-2 {
+    color: initial;
+}
+
+.my-class-3 {
+    color: unset;
+}
