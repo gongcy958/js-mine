@@ -1,0 +1,52 @@
+/* .box {
+    width: 150px;
+}
+
+.horizontal {
+    writing-mode: horizontal-tb;
+  }
+  
+  .vertical {
+    writing-mode: vertical-rl;
+  } */
+
+  .box {
+    border: 1px solid #333333;
+    width: 200px;
+    height: 100px;
+    overflow-x: scroll;
+  }
+
+  .wrapper {
+    font-size: lem;
+  }
+     
+
+  .px {
+    width: 200px;
+  }
+
+  .vw {
+    width: 10vw;
+  }
+  
+  .em {
+    width: 10em;
+  }
+
+  .one {
+    background-color: rgba(2, 121, 139, 1);
+  }
+  
+  .two {
+    background-color: rgba(197, 93, 161, .7);
+  }
+  
+  .three {
+    background-color: rgba(18, 138, 125, .9);
+  }
+
+  .text {
+    border: 5px solid darkblue;
+  }
+     
